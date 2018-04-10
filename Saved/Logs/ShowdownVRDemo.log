@@ -391,3 +391,258 @@ LogInit: Object subsystem initialized
 [2018.04.10-08.27.17:068][334]LogSavePackage: Save=398.95ms
 [2018.04.10-08.27.17:068][334]LogSavePackage: Moving 'C:/git3/Saved/Jared_rooftopE27DC55147351DD9AA10B58593444E8A.tmp' to 'C:/git3/Content/Maps/Jared_rooftop.umap'
 [2018.04.10-08.27.17:077][334]LogSavePackage: Display: Finished SavePackage C:/git3/Content/Maps/Jared_rooftop.umap
+[2018.04.10-08.32.11:751][451]Cmd: EDIT CUT
+[2018.04.10-08.32.12:407][451]LogAIModule: Creating AISystem for world Showdown_P
+[2018.04.10-08.32.12:458][451]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.10-08.32.12:516][451]LogEditorActor: Deleted 1 Actors (0.344 secs)
+[2018.04.10-08.33.52:398][884]LogMaterial: Missing cached shader map for material 64fbfc5a670d630106565bddc8c6b4cc_Mat_2, compiling. 
+[2018.04.10-08.34.22:994][ 11]LogMaterial: Missing cached shader map for material 64fbfc5a670d630106565bddc8c6b4cc_Mat, compiling. 
+[2018.04.10-08.34.37:208][564]LogMaterial: Missing cached shader map for material 64fbfc5a670d630106565bddc8c6b4cc_Mat_2, compiling. 
+[2018.04.10-08.35.01:405][645]LogMaterial: Missing cached shader map for material 64fbfc5a670d630106565bddc8c6b4cc_Mat_2, compiling. 
+[2018.04.10-08.35.01:462][645]LogMaterial: Missing cached shader map for material Tileable_eroded_scratch_metal_texture_background_08_Mat_2, compiling. 
+[2018.04.10-08.35.01:512][645]LogMaterial: Missing cached shader map for material tiled-metal-no-seams_Mat_2, compiling. 
+[2018.04.10-08.35.01:561][645]LogMaterial: Missing cached shader map for material vent_Mat_2, compiling. 
+[2018.04.10-08.35.01:627][645]LogMaterial: Missing cached shader map for material wildtextures-zinc-galvanized-metal-sheet_Mat_2, compiling. 
+[2018.04.10-08.35.01:695][645]LogMaterial: Missing cached shader map for material concrete_Mat_2, compiling. 
+[2018.04.10-08.35.01:760][645]LogMaterial: Missing cached shader map for material button_Mat_2, compiling. 
+[2018.04.10-08.35.01:825][645]LogMaterial: Missing cached shader map for material brushed_metal_Mat_2, compiling. 
+[2018.04.10-08.35.01:890][645]LogMaterial: Missing cached shader map for material grate2_Mat_2, compiling. 
+[2018.04.10-08.35.01:957][645]LogMaterial: Missing cached shader map for material metal_top_Mat_2, compiling. 
+[2018.04.10-08.35.02:024][645]LogMaterial: Missing cached shader map for material Plaster_01_UV_H_CM_1_Mat_2, compiling. 
+[2018.04.10-08.35.02:090][645]LogMaterial: Missing cached shader map for material Plastic_1_Mat_2, compiling. 
+[2018.04.10-08.35.02:157][645]LogMaterial: Missing cached shader map for material Rubber_01_UV_H_CM_1_Mat_2, compiling. 
+[2018.04.10-08.35.02:224][645]LogMaterial: Missing cached shader map for material Scratched_Plastic_01_UV_M_CM_1_Mat_2, compiling. 
+[2018.04.10-08.35.09:308][929]Cmd: TRANSACTION UNDO
+[2018.04.10-08.35.09:308][929]LogEditorTransaction: Undo Cut
+[2018.04.10-08.36.50:379][850]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorSkySphere)
+[2018.04.10-08.37.08:160][709]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_NYC_LowPolyBuildings_Set01_Mid_2)
+[2018.04.10-08.38.47:897][753]Cmd: TRANSACTION UNDO
+[2018.04.10-08.38.47:897][753]LogEditorTransaction: Undo Create Actors
+[2018.04.10-08.38.47:921][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 0
+[2018.04.10-08.38.47:921][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 1
+[2018.04.10-08.38.47:921][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 2
+[2018.04.10-08.38.47:921][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 3
+[2018.04.10-08.38.47:921][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 4
+[2018.04.10-08.38.47:921][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 5
+[2018.04.10-08.38.47:921][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 6
+[2018.04.10-08.38.47:922][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 7
+[2018.04.10-08.38.47:922][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 8
+[2018.04.10-08.38.47:922][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 9
+[2018.04.10-08.38.47:922][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 10
+[2018.04.10-08.38.47:922][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 11
+[2018.04.10-08.38.47:922][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 12
+[2018.04.10-08.38.47:922][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 13
+[2018.04.10-08.38.47:922][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 14
+[2018.04.10-08.38.47:922][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 15
+[2018.04.10-08.38.47:922][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 16
+[2018.04.10-08.38.47:922][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 17
+[2018.04.10-08.38.47:922][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 18
+[2018.04.10-08.38.47:922][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 19
+[2018.04.10-08.38.47:922][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 20
+[2018.04.10-08.38.47:922][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 21
+[2018.04.10-08.38.47:922][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 22
+[2018.04.10-08.38.47:922][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 23
+[2018.04.10-08.38.47:922][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 24
+[2018.04.10-08.38.47:922][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 25
+[2018.04.10-08.38.47:922][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 26
+[2018.04.10-08.38.47:922][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 27
+[2018.04.10-08.38.47:922][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 28
+[2018.04.10-08.38.47:922][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 29
+[2018.04.10-08.38.47:922][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 30
+[2018.04.10-08.38.47:922][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 31
+[2018.04.10-08.38.47:922][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 32
+[2018.04.10-08.38.47:922][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 33
+[2018.04.10-08.38.47:922][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 34
+[2018.04.10-08.38.47:922][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 35
+[2018.04.10-08.38.47:922][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 36
+[2018.04.10-08.38.47:923][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 37
+[2018.04.10-08.38.47:923][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 38
+[2018.04.10-08.38.47:923][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 39
+[2018.04.10-08.38.47:923][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 40
+[2018.04.10-08.38.47:923][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 41
+[2018.04.10-08.38.47:923][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 42
+[2018.04.10-08.38.47:923][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 43
+[2018.04.10-08.38.47:923][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 44
+[2018.04.10-08.38.47:923][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 45
+[2018.04.10-08.38.47:923][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 46
+[2018.04.10-08.38.47:923][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 47
+[2018.04.10-08.38.47:923][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 48
+[2018.04.10-08.38.47:923][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 49
+[2018.04.10-08.38.47:923][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 50
+[2018.04.10-08.38.47:923][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 51
+[2018.04.10-08.38.47:923][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 52
+[2018.04.10-08.38.47:923][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 53
+[2018.04.10-08.38.47:923][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 54
+[2018.04.10-08.38.47:923][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 55
+[2018.04.10-08.38.47:923][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 56
+[2018.04.10-08.38.47:923][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 57
+[2018.04.10-08.38.47:923][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 58
+[2018.04.10-08.38.47:923][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 59
+[2018.04.10-08.38.47:923][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 60
+[2018.04.10-08.38.47:923][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 61
+[2018.04.10-08.38.47:923][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 62
+[2018.04.10-08.38.47:923][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 63
+[2018.04.10-08.38.47:923][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 64
+[2018.04.10-08.38.47:923][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 65
+[2018.04.10-08.38.47:924][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 66
+[2018.04.10-08.38.47:924][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 67
+[2018.04.10-08.38.47:924][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 68
+[2018.04.10-08.38.47:924][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 69
+[2018.04.10-08.38.47:924][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 70
+[2018.04.10-08.38.47:924][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 71
+[2018.04.10-08.38.47:924][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 72
+[2018.04.10-08.38.47:924][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 73
+[2018.04.10-08.38.47:924][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 74
+[2018.04.10-08.38.47:924][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 75
+[2018.04.10-08.38.47:924][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 76
+[2018.04.10-08.38.47:924][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 77
+[2018.04.10-08.38.47:924][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 78
+[2018.04.10-08.38.47:924][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 79
+[2018.04.10-08.38.47:924][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 80
+[2018.04.10-08.38.47:924][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 81
+[2018.04.10-08.38.47:924][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 82
+[2018.04.10-08.38.47:924][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 83
+[2018.04.10-08.38.47:924][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 84
+[2018.04.10-08.38.47:924][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 85
+[2018.04.10-08.38.47:924][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 86
+[2018.04.10-08.38.47:924][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 87
+[2018.04.10-08.38.47:924][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 88
+[2018.04.10-08.38.47:924][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 89
+[2018.04.10-08.38.47:924][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 90
+[2018.04.10-08.38.47:924][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 91
+[2018.04.10-08.38.47:924][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 92
+[2018.04.10-08.38.47:924][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 93
+[2018.04.10-08.38.47:924][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 94
+[2018.04.10-08.38.47:924][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 95
+[2018.04.10-08.38.47:924][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 96
+[2018.04.10-08.38.47:924][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 97
+[2018.04.10-08.38.47:924][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 98
+[2018.04.10-08.38.47:924][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 99
+[2018.04.10-08.38.47:925][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 100
+[2018.04.10-08.38.47:925][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 101
+[2018.04.10-08.38.47:925][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 102
+[2018.04.10-08.38.47:925][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 103
+[2018.04.10-08.38.47:925][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 104
+[2018.04.10-08.38.47:925][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 105
+[2018.04.10-08.38.47:925][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 106
+[2018.04.10-08.38.47:925][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 107
+[2018.04.10-08.38.47:925][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 108
+[2018.04.10-08.38.47:925][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 109
+[2018.04.10-08.38.47:925][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 110
+[2018.04.10-08.38.47:925][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 111
+[2018.04.10-08.38.47:925][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 112
+[2018.04.10-08.38.47:925][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 113
+[2018.04.10-08.38.47:925][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 114
+[2018.04.10-08.38.47:925][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 115
+[2018.04.10-08.38.47:925][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 116
+[2018.04.10-08.38.47:925][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 117
+[2018.04.10-08.38.47:925][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 118
+[2018.04.10-08.38.47:925][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 119
+[2018.04.10-08.38.47:925][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 120
+[2018.04.10-08.38.47:925][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 121
+[2018.04.10-08.38.47:925][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 122
+[2018.04.10-08.38.47:925][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 123
+[2018.04.10-08.38.47:925][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 124
+[2018.04.10-08.38.47:925][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 125
+[2018.04.10-08.38.47:925][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 126
+[2018.04.10-08.38.47:925][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 127
+[2018.04.10-08.38.47:925][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 128
+[2018.04.10-08.38.47:925][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 129
+[2018.04.10-08.38.47:925][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 130
+[2018.04.10-08.38.47:925][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 131
+[2018.04.10-08.38.47:926][753]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 132
+[2018.04.10-08.38.47:926][753]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/Jared_rooftop.Jared_rooftop:PersistentLevel.ModelComponent_22' invalid (1908 verts, 0 indices).
+[2018.04.10-08.38.47:926][753]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/Jared_rooftop.Jared_rooftop:PersistentLevel.ModelComponent_22.BodySetup_22 when we are unable to.
+[2018.04.10-08.39.43:651][778]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Jared_rooftop" FILE="C:/git3/Saved/Autosaves/Game/Maps/Jared_rooftop_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.04.10-08.39.44:117][778]LogSavePackage: Save=462.07ms
+[2018.04.10-08.39.44:117][778]LogSavePackage: Moving 'C:/git3/Saved/Jared_rooftop_Auto11F1805AB43BEEB608CA79FACB6C93EFF.tmp' to 'C:/git3/Saved/Autosaves/Game/Maps/Jared_rooftop_Auto1.umap'
+[2018.04.10-08.39.44:119][778]LogSavePackage: Display: Finished SavePackage C:/git3/Saved/Autosaves/Game/Maps/Jared_rooftop_Auto1.umap
+[2018.04.10-08.39.44:123][778]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Jared_rooftop' took 0.860
+[2018.04.10-08.39.44:123][778]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.860
+[2018.04.10-08.39.44:136][778]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/64fbfc5a670d630106565bddc8c6b4cc_Mat] ([1] browsable assets)...
+[2018.04.10-08.39.44:199][778]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/64fbfc5a670d630106565bddc8c6b4cc_Mat.64fbfc5a670d630106565bddc8c6b4cc_Mat]
+[2018.04.10-08.39.44:199][778]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/64fbfc5a670d630106565bddc8c6b4cc_Mat]
+[2018.04.10-08.39.44:285][778]LogSavePackage: Save=82.45ms
+[2018.04.10-08.39.44:285][778]LogSavePackage: Moving 'C:/git3/Saved/64fbfc5a670d630106565bddc8c6b4ccA384F7D947F78BD5359E02B8E6ABCAE0.tmp' to 'C:/git3/Saved/Autosaves/Game/Materials/64fbfc5a670d630106565bddc8c6b4cc_Mat_Auto1.uasset'
+[2018.04.10-08.39.44:286][778]LogSavePackage: Display: Finished SavePackage C:/git3/Saved/Autosaves/Game/Materials/64fbfc5a670d630106565bddc8c6b4cc_Mat_Auto1.uasset
+[2018.04.10-08.39.44:286][778]LogFileHelpers: Auto-saving content packages took 0.161
+[2018.04.10-08.40.25:933][189]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorSkySphere)
+[2018.04.10-08.40.26:348][200]Cmd: TRANSACTION UNDO
+[2018.04.10-08.40.26:348][200]LogEditorTransaction: Undo Clicking on Actors
+[2018.04.10-08.40.27:966][275]Cmd: TRANSACTION UNDO
+[2018.04.10-08.40.27:966][275]LogEditorTransaction: Undo Select Brush Surface
+[2018.04.10-08.40.28:502][292]Cmd: TRANSACTION UNDO
+[2018.04.10-08.40.28:502][292]LogEditorTransaction: Undo Select Brush Surface
+[2018.04.10-08.40.29:291][319]Cmd: TRANSACTION UNDO
+[2018.04.10-08.40.29:291][319]LogEditorTransaction: Undo Create Actors
+[2018.04.10-08.42.29:784][386]LogEditorViewport: Clicking on Actor (context menu): Brush (Box Brush13)
+[2018.04.10-08.42.52:008][211]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorSkySphere)
+[2018.04.10-08.43.07:290][814]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorSkySphere)
+[2018.04.10-08.43.15:367][122]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorSkySphere)
+[2018.04.10-08.43.28:423][701]Cmd: ACTOR SELECT ALL
+[2018.04.10-08.43.39:813][223]Cmd: POLY SELECT ADJACENT ALL
+[2018.04.10-08.43.54:373][743]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorSkySphere)
+[2018.04.10-08.44.06:216][217]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorSkySphere)
+[2018.04.10-08.44.11:965][435]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush3)
+[2018.04.10-08.44.13:073][480]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush3)
+[2018.04.10-08.44.17:050][655]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorSkySphere)
+[2018.04.10-08.45.32:709][807]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorSkySphere)
+[2018.04.10-08.45.49:713][418]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorSkySphere)
+[2018.04.10-08.45.51:983][496]Cmd: DELETE
+[2018.04.10-08.45.51:983][496]Cmd: ACTOR DELETE
+[2018.04.10-08.45.52:334][496]LogEditorActor: Deleted Actor: Brush
+[2018.04.10-08.45.52:409][496]LogEditorActor: Deleted 1 Actors (0.135 secs)
+[2018.04.10-08.45.56:231][642]LogEditorViewport: Clicking on Actor (context menu): Brush (Cylinder Brush3)
+[2018.04.10-08.46.06:774][209]Cmd: DUPLICATE
+[2018.04.10-08.46.06:774][209]Cmd: ACTOR DUPLICATE
+[2018.04.10-08.46.07:713][235]Cmd: EDIT PASTE
+[2018.04.10-08.46.10:765][346]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorSkySphere)
+[2018.04.10-08.46.16:818][548]Cmd: DELETE
+[2018.04.10-08.46.16:818][548]Cmd: ACTOR DELETE
+[2018.04.10-08.46.16:827][548]LogEditorActor: Deleted Actor: Brush
+[2018.04.10-08.46.16:882][548]LogEditorActor: Deleted 1 Actors (0.064 secs)
+[2018.04.10-08.46.17:600][570]Cmd: DELETE
+[2018.04.10-08.46.17:600][570]Cmd: ACTOR DELETE
+[2018.04.10-08.46.17:609][570]LogEditorActor: Deleted Actor: Brush
+[2018.04.10-08.46.17:682][570]LogEditorActor: Deleted 1 Actors (0.081 secs)
+[2018.04.10-08.46.46:820][580]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorSkySphere)
+[2018.04.10-08.47.06:418][294]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorSkySphere)
+[2018.04.10-08.47.12:173][484]Cmd: EDIT PASTE
+[2018.04.10-08.47.22:790][949]Cmd: DUPLICATE
+[2018.04.10-08.47.22:790][949]Cmd: ACTOR DUPLICATE
+[2018.04.10-08.47.25:255][ 30]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorSkySphere)
+[2018.04.10-08.47.46:167][797]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorSkySphere)
+[2018.04.10-08.48.32:482][539]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorSkySphere)
+[2018.04.10-08.48.40:832][829]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorSkySphere)
+[2018.04.10-08.48.55:038][487]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Jared_rooftop" FILE="C:/git3/Content/Maps/Jared_rooftop.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.10-08.48.55:510][487]LogSavePackage: Save=436.01ms
+[2018.04.10-08.48.55:510][487]LogSavePackage: Moving 'C:/git3/Saved/Jared_rooftop603F584E44D6DA58A148A1810ECBAFCE.tmp' to 'C:/git3/Content/Maps/Jared_rooftop.umap'
+[2018.04.10-08.48.55:518][487]LogSavePackage: Display: Finished SavePackage C:/git3/Content/Maps/Jared_rooftop.umap
+[2018.04.10-08.48.59:042][624]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight5)
+[2018.04.10-08.49.00:201][673]Cmd: DELETE
+[2018.04.10-08.49.00:201][673]Cmd: ACTOR DELETE
+[2018.04.10-08.49.00:210][673]LogEditorActor: Deleted Actor: PointLight
+[2018.04.10-08.49.00:245][673]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2018.04.10-08.49.02:574][778]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight4)
+[2018.04.10-08.49.03:522][818]Cmd: DELETE
+[2018.04.10-08.49.03:522][818]Cmd: ACTOR DELETE
+[2018.04.10-08.49.03:531][818]LogEditorActor: Deleted Actor: PointLight
+[2018.04.10-08.49.03:561][818]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2018.04.10-08.49.04:170][850]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight6)
+[2018.04.10-08.49.04:376][856]Cmd: DELETE
+[2018.04.10-08.49.04:376][856]Cmd: ACTOR DELETE
+[2018.04.10-08.49.04:384][856]LogEditorActor: Deleted Actor: PointLight
+[2018.04.10-08.49.04:413][856]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2018.04.10-08.49.08:320][ 64]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight3)
+[2018.04.10-08.49.08:961][ 95]Cmd: DELETE
+[2018.04.10-08.49.08:961][ 95]Cmd: ACTOR DELETE
+[2018.04.10-08.49.08:969][ 95]LogEditorActor: Deleted Actor: PointLight
+[2018.04.10-08.49.08:999][ 95]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2018.04.10-08.49.20:214][904]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Jared_rooftop" FILE="C:/git3/Content/Maps/Jared_rooftop.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.10-08.49.20:689][904]LogSavePackage: Save=418.36ms
+[2018.04.10-08.49.20:690][904]LogSavePackage: Moving 'C:/git3/Saved/Jared_rooftop1DA3760C45302EB8BA6BCD9FA868CC3D.tmp' to 'C:/git3/Content/Maps/Jared_rooftop.umap'
+[2018.04.10-08.49.20:694][904]LogSavePackage: Display: Finished SavePackage C:/git3/Content/Maps/Jared_rooftop.umap
+[2018.04.10-08.49.22:724][997]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Jared_rooftop" FILE="C:/git3/Content/Maps/Jared_rooftop.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.10-08.49.23:188][997]LogSavePackage: Save=428.74ms
+[2018.04.10-08.49.23:189][997]LogSavePackage: Moving 'C:/git3/Saved/Jared_rooftopD851DEFA46803AB59CC881ACEFA76BC9.tmp' to 'C:/git3/Content/Maps/Jared_rooftop.umap'
+[2018.04.10-08.49.23:193][997]LogSavePackage: Display: Finished SavePackage C:/git3/Content/Maps/Jared_rooftop.umap

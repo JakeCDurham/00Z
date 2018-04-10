@@ -2486,3 +2486,312 @@ LogInit: Object subsystem initialized
 [2018.04.10-10.09.00:337][293]LogSavePackage: Save=22.68ms
 [2018.04.10-10.09.00:338][293]LogSavePackage: Moving 'C:/git3/Saved/PigeonSequence669F96C446C12F331E0A8F9B8929A550.tmp' to 'C:/git3/Content/00Z/Sequences/PigeonSequence.uasset'
 [2018.04.10-10.09.00:349][293]LogSavePackage: Display: Finished SavePackage C:/git3/Content/00Z/Sequences/PigeonSequence.uasset
+[2018.04.10-10.20.06:561][519]Cmd: DELETE
+[2018.04.10-10.20.06:561][519]Cmd: ACTOR DELETE
+[2018.04.10-10.20.06:590][519]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2018.04.10-10.20.06:631][519]LogEditorActor: Deleted 1 Actors (0.070 secs)
+[2018.04.10-10.20.30:328][416]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_NYC_LowPolyBuildings_Set01_Mid_2)
+[2018.04.10-10.20.31:038][442]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Male2)
+[2018.04.10-10.20.33:546][546]Cmd: DELETE
+[2018.04.10-10.20.33:546][546]Cmd: ACTOR DELETE
+[2018.04.10-10.20.33:556][546]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2018.04.10-10.20.33:583][546]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2018.04.10-10.20.44:715][635]LogAssetTools: Warning: Failed to import 'G:\Downloads\Target.fuse'. Unknown extension 'fuse'.
+[2018.04.10-10.21.20:845][744]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Jared_rooftop" FILE="C:/git3/Saved/Autosaves/Game/Maps/Jared_rooftop_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.04.10-10.21.21:436][744]LogSavePackage: Save=577.97ms
+[2018.04.10-10.21.21:436][744]LogSavePackage: Moving 'C:/git3/Saved/Jared_rooftop_Auto7F98953DC4E99ECE36D91EA8D4D201ED1.tmp' to 'C:/git3/Saved/Autosaves/Game/Maps/Jared_rooftop_Auto7.umap'
+[2018.04.10-10.21.21:438][744]LogSavePackage: Display: Finished SavePackage C:/git3/Saved/Autosaves/Game/Maps/Jared_rooftop_Auto7.umap
+[2018.04.10-10.21.21:442][744]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Jared_rooftop' took 0.628
+[2018.04.10-10.21.21:442][744]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.628
+[2018.04.10-10.22.59:494][298]LogActorFactory: Actor Factory created SM_Couch
+[2018.04.10-10.23.04:210][544]LogActorFactory: Actor Factory created SM_Couch
+[2018.04.10-10.23.05:199][582]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_NYC_LowPolyBuildings_Set01_Mid_2)
+[2018.04.10-10.23.05:815][605]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Couch)
+[2018.04.10-10.23.08:946][742]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_NYC_LowPolyBuildings_Set01_Mid_2)
+[2018.04.10-10.23.09:924][781]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Couch)
+[2018.04.10-10.23.14:649][990]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TableRound)
+[2018.04.10-10.23.15:280][ 15]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_NYC_LowPolyBuildings_Set01_Mid_2)
+[2018.04.10-10.23.16:424][ 61]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Couch)
+[2018.04.10-10.23.18:255][142]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TableRound)
+[2018.04.10-10.23.21:261][280]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Couch)
+[2018.04.10-10.23.22:625][339]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TableRound)
+[2018.04.10-10.23.26:268][516]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Couch)
+[2018.04.10-10.23.33:696][802]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_NYC_LowPolyBuildings_Set01_Mid_2)
+[2018.04.10-10.23.43:029][217]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Couch)
+[2018.04.10-10.23.45:296][313]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_NYC_LowPolyBuildings_Set01_Mid_2)
+[2018.04.10-10.23.47:753][399]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Couch)
+[2018.04.10-10.23.51:207][550]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_NYC_LowPolyBuildings_Set01_Mid_2)
+[2018.04.10-10.24.01:839][950]LogActorFactory: Actor Factory created SM_Chair
+[2018.04.10-10.24.02:854][991]LogActorFactory: Actor Factory created SM_Chair
+[2018.04.10-10.24.07:871][193]Cmd: DELETE
+[2018.04.10-10.24.07:872][193]Cmd: ACTOR DELETE
+[2018.04.10-10.24.07:882][193]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.10-10.24.07:922][193]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2018.04.10-10.24.09:000][247]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Couch)
+[2018.04.10-10.24.09:512][264]Cmd: DELETE
+[2018.04.10-10.24.09:512][264]Cmd: ACTOR DELETE
+[2018.04.10-10.24.09:523][264]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.10-10.24.09:564][264]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2018.04.10-10.24.13:557][441]LogActorFactory: Actor Factory created SM_Bush
+[2018.04.10-10.24.14:298][458]LogActorFactory: Actor Factory created SM_Bush
+[2018.04.10-10.24.18:505][588]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_NYC_LowPolyBuildings_Set01_Mid_2)
+[2018.04.10-10.24.23:070][781]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bush)
+[2018.04.10-10.24.27:256][961]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_NYC_LowPolyBuildings_Set01_Mid_2)
+[2018.04.10-10.24.33:887][263]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bush)
+[2018.04.10-10.24.34:703][298]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_NYC_LowPolyBuildings_Set01_Mid_2)
+[2018.04.10-10.24.35:348][324]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bush)
+[2018.04.10-10.24.36:282][366]Cmd: DELETE
+[2018.04.10-10.24.36:282][366]Cmd: ACTOR DELETE
+[2018.04.10-10.24.36:292][366]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.10-10.24.36:333][366]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2018.04.10-10.26.55:478][184]LogMaterial: Missing cached shader map for material M_Statue, compiling. 
+[2018.04.10-10.26.55:552][184]LogStaticMesh: Building static mesh Statue...
+[2018.04.10-10.26.55:854][184]LogStaticMesh: Built static mesh [0.31s] /Game/ArchVis/Mesh/Statue.Statue
+[2018.04.10-10.26.56:443][184]LogActorFactory: Actor Factory created Statue
+[2018.04.10-10.26.56:619][189]LogActorFactory: Actor Factory created Statue
+[2018.04.10-10.26.57:789][238]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_NYC_LowPolyBuildings_Set01_Mid_2)
+[2018.04.10-10.26.58:630][270]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Statue2)
+[2018.04.10-10.26.59:913][323]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Statue)
+[2018.04.10-10.27.03:585][485]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TableRound2)
+[2018.04.10-10.27.04:523][522]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Statue)
+[2018.04.10-10.27.09:250][687]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Statue)
+[2018.04.10-10.27.09:984][719]Cmd: DELETE
+[2018.04.10-10.27.09:984][719]Cmd: ACTOR DELETE
+[2018.04.10-10.27.09:993][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.10-10.27.10:029][719]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2018.04.10-10.27.36:576][ 76]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_NYC_LowPolyBuildings_Set01_Mid_2)
+[2018.04.10-10.27.39:190][188]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_NYC_LowPolyBuildings_Set01_Mid_2)
+[2018.04.10-10.28.01:718][ 87]LogActorFactory: Actor Factory created SM_Statue
+[2018.04.10-10.28.02:648][127]LogActorFactory: Actor Factory created SM_Statue
+[2018.04.10-10.28.07:205][325]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_NYC_LowPolyBuildings_Set01_Mid_2)
+[2018.04.10-10.28.07:992][356]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Statue5)
+[2018.04.10-10.28.15:269][541]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0069 seconds. Added 1 classes and 0 folders.
+[2018.04.10-10.28.15:352][541]LogMaterial: Missing cached shader map for material M_StatueGlass, compiling. 
+[2018.04.10-10.28.17:425][541]LogMaterial: Missing cached shader map for material M_StatueGlass, compiling. 
+[2018.04.10-10.28.17:570][541]LogMaterial: Missing cached shader map for material M_StatueGlass, compiling. 
+[2018.04.10-10.28.17:674][541]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.04.10-10.28.17:685][541]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.10-10.28.17:695][541]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.10-10.28.20:785][600]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_NYC_LowPolyBuildings_Set01_Mid_2)
+[2018.04.10-10.28.21:892][642]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Statue)
+[2018.04.10-10.28.25:196][763]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Statue5)
+[2018.04.10-10.28.32:868][ 33]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Statue5)
+[2018.04.10-10.28.33:819][ 73]Cmd: DELETE
+[2018.04.10-10.28.33:819][ 73]Cmd: ACTOR DELETE
+[2018.04.10-10.28.33:830][ 73]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.10-10.28.33:863][ 73]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2018.04.10-10.28.43:268][522]Cmd: TRANSACTION UNDO
+[2018.04.10-10.28.43:268][522]LogEditorTransaction: Undo Create Actors
+[2018.04.10-10.28.45:702][642]Cmd: TRANSACTION UNDO
+[2018.04.10-10.28.45:702][642]LogEditorTransaction: Undo Create Actors
+[2018.04.10-10.29.02:895][283]LogTexture: Display: Building textures: T_MugLogo_D (AutoDXT, 512X512)
+[2018.04.10-10.29.02:895][283]LogTexture: Display: Building textures: T_Mug_M (AutoDXT, 2048X2048)
+[2018.04.10-10.29.02:895][283]LogTexture: Display: Building textures: T_Mug_N (BC5, 2048X2048)
+[2018.04.10-10.29.02:895][283]LogMaterial: Missing cached shader map for material M_Mug, compiling. 
+[2018.04.10-10.29.02:952][283]LogStaticMesh: Building static mesh Mug...
+[2018.04.10-10.29.03:019][283]LogStaticMesh: Built static mesh [0.07s] /Game/ArchVis/Mesh/Mug.Mug
+[2018.04.10-10.29.03:066][283]LogActorFactory: Actor Factory created Mug
+[2018.04.10-10.29.04:673][355]LogActorFactory: Actor Factory created Mug
+[2018.04.10-10.29.05:878][399]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_NYC_LowPolyBuildings_Set01_Mid_2)
+[2018.04.10-10.29.12:111][624]LogMaterial: Missing cached shader map for material M_Ceramic_Mat, compiling. 
+[2018.04.10-10.29.12:165][624]LogStaticMesh: Building static mesh SM_Vase_1...
+[2018.04.10-10.29.12:198][624]LogStaticMesh: Built static mesh [0.03s] /Game/ArchVis/Mesh/SM_Vase_1.SM_Vase_1
+[2018.04.10-10.29.12:232][624]LogActorFactory: Actor Factory created SM_Vase_1
+[2018.04.10-10.29.13:128][655]LogActorFactory: Actor Factory created SM_Vase_1
+[2018.04.10-10.29.16:574][780]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorSkySphere)
+[2018.04.10-10.29.32:045][325]LogActorFactory: Actor Factory created SM_Vase_1
+[2018.04.10-10.29.33:008][362]LogActorFactory: Actor Factory created SM_Vase_1
+[2018.04.10-10.29.33:851][385]LogActorFactory: Actor Factory created Mug
+[2018.04.10-10.29.34:689][416]LogActorFactory: Actor Factory created Mug
+[2018.04.10-10.29.35:685][440]LogActorFactory: Actor Factory created Mug
+[2018.04.10-10.29.36:801][483]LogActorFactory: Actor Factory created Mug
+[2018.04.10-10.29.37:104][492]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_NYC_LowPolyBuildings_Set01_Mid_2)
+[2018.04.10-10.29.41:937][662]LogActorFactory: Actor Factory created Mug
+[2018.04.10-10.29.42:838][694]LogActorFactory: Actor Factory created Mug
+[2018.04.10-10.29.43:216][706]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_NYC_LowPolyBuildings_Set01_Mid_2)
+[2018.04.10-10.29.51:264][ 28]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Vase_1)
+[2018.04.10-10.29.52:682][ 83]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_NYC_LowPolyBuildings_Set01_Mid_2)
+[2018.04.10-10.29.53:230][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Jared_rooftop" FILE="C:/git3/Content/Maps/Jared_rooftop.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.10-10.29.53:954][ 99]LogSavePackage: Save=685.26ms
+[2018.04.10-10.29.53:954][ 99]LogSavePackage: Moving 'C:/git3/Saved/Jared_rooftop39F4FB614EB8022AFE9E99BB6CFD34B7.tmp' to 'C:/git3/Content/Maps/Jared_rooftop.umap'
+[2018.04.10-10.29.53:964][ 99]LogSavePackage: Display: Finished SavePackage C:/git3/Content/Maps/Jared_rooftop.umap
+[2018.04.10-10.30.15:540][ 17]MapCheck: New page: Map Check
+[2018.04.10-10.30.15:667][ 17]Cmd: MAP REBUILD ALLVISIBLE
+[2018.04.10-10.30.15:668][ 17]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.04.10-10.30.16:616][ 17]LogEditorServer: Cleared 14 NULL BSP materials after rebuild.
+[2018.04.10-10.30.16:766][ 17]LightingResults: New page: Lighting Build - Apr 9, 2018, 10:30:16 PM
+[2018.04.10-10.30.17:161][ 17]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.04.10-10.30.17:372][ 17]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.04.10-10.30.17:413][ 17]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.04.10-10.30.18:973][ 17]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.04.10-10.30.18:973][ 17]LogSwarmInterface: [TryOpenConnection] Local Process ID is 2072
+[2018.04.10-10.30.22:485][ 17]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.04.10-10.30.22:485][ 17]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.04.10-10.30.22:485][ 17]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.04.10-10.30.22:485][ 17]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.04.10-10.30.22:486][ 17]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.04.10-10.30.23:324][ 17]LogEditorBuildUtils: Build time 0:07
+[2018.04.10-10.30.23:452][ 17]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer wildtextures-zinc-galvanized-metal-sheet_Mat, compiling. 
+[2018.04.10-10.30.23:470][ 17]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer wildtextures-zinc-galvanized-metal-sheet_Mat, compiling. 
+[2018.04.10-10.30.23:608][ 18]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_MaterialSphere, compiling. 
+[2018.04.10-10.30.23:620][ 18]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_MaterialSphere, compiling. 
+[2018.04.10-10.30.23:709][ 19]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Scratched_Plastic_01_UV_M_CM_1_Mat, compiling. 
+[2018.04.10-10.30.23:722][ 19]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Scratched_Plastic_01_UV_M_CM_1_Mat, compiling. 
+[2018.04.10-10.30.23:765][ 20]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_StatueGlass, compiling. 
+[2018.04.10-10.30.23:778][ 20]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_StatueGlass, compiling. 
+[2018.04.10-10.30.23:812][ 21]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Statue, compiling. 
+[2018.04.10-10.30.23:825][ 21]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Statue, compiling. 
+[2018.04.10-10.30.23:857][ 22]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Mug, compiling. 
+[2018.04.10-10.30.23:870][ 22]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Mug, compiling. 
+[2018.04.10-10.30.23:901][ 23]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Ceramic_Mat_Inst, compiling. 
+[2018.04.10-10.30.23:915][ 23]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Ceramic_Mat_Inst, compiling. 
+[2018.04.10-10.30.24:024][ 26]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Plaster_01_UV_H_CM_1_Mat, compiling. 
+[2018.04.10-10.30.24:037][ 26]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Plaster_01_UV_H_CM_1_Mat, compiling. 
+[2018.04.10-10.30.24:074][ 27]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer metal_top_Mat, compiling. 
+[2018.04.10-10.30.24:088][ 27]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer metal_top_Mat, compiling. 
+[2018.04.10-10.30.24:122][ 28]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Rubber_01_UV_H_CM_1_Mat, compiling. 
+[2018.04.10-10.30.24:136][ 28]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Rubber_01_UV_H_CM_1_Mat, compiling. 
+[2018.04.10-10.30.24:168][ 29]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer 64fbfc5a670d630106565bddc8c6b4cc_Mat, compiling. 
+[2018.04.10-10.30.24:182][ 29]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer 64fbfc5a670d630106565bddc8c6b4cc_Mat, compiling. 
+[2018.04.10-10.30.24:210][ 30]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Plastic_1_Mat, compiling. 
+[2018.04.10-10.30.24:223][ 30]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Plastic_1_Mat, compiling. 
+[2018.04.10-10.30.24:252][ 31]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer vent_Mat, compiling. 
+[2018.04.10-10.30.24:266][ 31]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer vent_Mat, compiling. 
+[2018.04.10-10.30.24:299][ 32]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer button_Mat, compiling. 
+[2018.04.10-10.30.24:314][ 32]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer button_Mat, compiling. 
+[2018.04.10-10.30.24:345][ 33]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer grate2_Mat, compiling. 
+[2018.04.10-10.30.24:359][ 33]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer grate2_Mat, compiling. 
+[2018.04.10-10.31.21:702][910]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Jared_rooftop" FILE="C:/git3/Saved/Autosaves/Game/Maps/Jared_rooftop_Auto8.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.04.10-10.31.22:300][910]LogSavePackage: Save=592.81ms
+[2018.04.10-10.31.22:301][910]LogSavePackage: Moving 'C:/git3/Saved/Jared_rooftop_Auto8FE45710E459A14E14B9074ACE48A0D37.tmp' to 'C:/git3/Saved/Autosaves/Game/Maps/Jared_rooftop_Auto8.umap'
+[2018.04.10-10.31.22:302][910]LogSavePackage: Display: Finished SavePackage C:/git3/Saved/Autosaves/Game/Maps/Jared_rooftop_Auto8.umap
+[2018.04.10-10.31.22:308][910]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MatineeMap" FILE="C:/git3/Saved/Autosaves/Game/Maps/MatineeMap_Auto8.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.04.10-10.31.22:490][910]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: MatineeMap, Actor: /Game/Maps/MatineeMap.MatineeMap:PersistentLevel.REINST_MatineeMap_C_0
+[2018.04.10-10.31.24:053][910]LogSavePackage: Save=1671.53ms
+[2018.04.10-10.31.24:053][910]LogSavePackage: Moving 'C:/git3/Saved/MatineeMap_Auto88FB3F7374CC18ED83B99A4B49C782472.tmp' to 'C:/git3/Saved/Autosaves/Game/Maps/MatineeMap_Auto8.umap'
+[2018.04.10-10.31.24:055][910]LogSavePackage: Display: Finished SavePackage C:/git3/Saved/Autosaves/Game/Maps/MatineeMap_Auto8.umap
+[2018.04.10-10.31.24:060][910]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/EnvironmentMap" FILE="C:/git3/Saved/Autosaves/Game/Maps/EnvironmentMap_Auto8.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.04.10-10.31.25:293][910]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: EnvironmentMap, Actor: /Game/Maps/EnvironmentMap.EnvironmentMap:PersistentLevel.REINST_EnvironmentMap_C_0
+[2018.04.10-10.31.28:286][910]LogSavePackage: Save=2995.27ms
+[2018.04.10-10.31.28:286][910]LogSavePackage: Moving 'C:/git3/Saved/EnvironmentMap_Auto8BFE9724D4D7726E28FF64984F314B61F.tmp' to 'C:/git3/Saved/Autosaves/Game/Maps/EnvironmentMap_Auto8.umap'
+[2018.04.10-10.31.28:288][910]LogSavePackage: Display: Finished SavePackage C:/git3/Saved/Autosaves/Game/Maps/EnvironmentMap_Auto8.umap
+[2018.04.10-10.31.28:290][910]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Jared_rooftop' took 6.629
+[2018.04.10-10.31.28:290][910]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 6.629
+[2018.04.10-10.31.28:307][910]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/00Z/Sequences/PigeonSequence] ([1] browsable assets)...
+[2018.04.10-10.31.28:307][910]OBJ SavePackage: Finished generating thumbnails for package [/Game/00Z/Sequences/PigeonSequence]
+[2018.04.10-10.31.28:307][910]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/00Z/Sequences/PigeonSequence" FILE="C:/git3/Saved/Autosaves/Game/00Z/Sequences/PigeonSequence_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2018.04.10-10.31.28:347][910]LogSavePackage: Save=28.56ms
+[2018.04.10-10.31.28:347][910]LogSavePackage: Moving 'C:/git3/Saved/PigeonSequence_Auto817B408D74B1DAD93559DB3BDC76C2028.tmp' to 'C:/git3/Saved/Autosaves/Game/00Z/Sequences/PigeonSequence_Auto8.uasset'
+[2018.04.10-10.31.28:349][910]LogSavePackage: Display: Finished SavePackage C:/git3/Saved/Autosaves/Game/00Z/Sequences/PigeonSequence_Auto8.uasset
+[2018.04.10-10.31.28:349][910]LogFileHelpers: Auto-saving content packages took 0.054
+[2018.04.10-10.31.57:465][121]LightingResults: Warning: SM_Midtown05_BuildChunk01_MID_Corner03 Object has wrapping UVs.
+[2018.04.10-10.32.06:969][519]LightingResults: Warning: SM_StartScreenSphere Object has wrapping UVs.
+[2018.04.10-10.32.12:067][679]LightingResults: Warning: SM_MET_Car_Interior Object has overlapping UVs.
+[2018.04.10-10.32.12:067][679]LightingResults: SM_MET_Car_Interior Lightmap UV are overlapping by 20.4%. Please adjust content - Enable Error Coloring to visualize.
+[2018.04.10-10.32.31:014][463]LightingResults: Warning: SM_BankSet_Tiling01 Object has wrapping UVs.
+[2018.04.10-10.32.32:306][517]LightingResults: Warning: SM_BankSet_Tiling01 Object has wrapping UVs.
+[2018.04.10-10.32.34:562][610]LightingResults: Warning: SM_BankSet_Tiling01 Object has wrapping UVs.
+[2018.04.10-10.32.34:657][614]LightingResults: Warning: SM_BankSet_Tiling01 Object has wrapping UVs.
+[2018.04.10-10.32.34:998][628]LightingResults: Warning: SM_BankSet_Corner01 Object has wrapping UVs.
+[2018.04.10-10.33.35:065][147]LightingResults: Warning: SM_StartScreenSphere Object has wrapping UVs.
+[2018.04.10-10.33.35:181][152]LightingResults: Warning: SM_LyrikPub_01 Object has overlapping UVs.
+[2018.04.10-10.33.35:181][152]LightingResults: SM_LyrikPub_01 Lightmap UV are overlapping by 47.5%. Please adjust content - Enable Error Coloring to visualize.
+[2018.04.10-10.33.35:872][181]Job is a success!
+[2018.04.10-10.33.36:742][182]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.294s
+[2018.04.10-10.33.36:742][182]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2018.04.10-10.33.36:742][182]LogVolumetricLightmapImport:      BrickData 1280x20x5 = 3.5Mb
+[2018.04.10-10.33.36:742][182]LogVolumetricLightmapImport:      Bricks at Level
+[2018.04.10-10.33.36:742][182]LogVolumetricLightmapImport:          0: 0.9% covering 100.0% of volume
+[2018.04.10-10.33.36:742][182]LogVolumetricLightmapImport:          1: 6.8% covering 11.7% of volume
+[2018.04.10-10.33.36:742][182]LogVolumetricLightmapImport:          2: 92.3% covering 2.5% of volume
+[2018.04.10-10.33.38:564][182]LogMaterial: Warning: Material /Game/StarterContent/Props/Materials/M_MaterialSphere.M_MaterialSphere needed to have new flag set bUsedWithStaticLighting !
+[2018.04.10-10.33.38:601][182]LogMaterial: Missing cached shader map for material M_MaterialSphere, compiling. 
+[2018.04.10-10.34.01:859][182]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 4096X4096)
+[2018.04.10-10.34.01:860][182]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 4096X4096)
+[2018.04.10-10.34.01:860][182]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2018.04.10-10.34.01:860][182]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2018.04.10-10.34.01:860][182]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 512X512)
+[2018.04.10-10.34.01:860][182]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 512X512)
+[2018.04.10-10.34.01:860][182]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 1024X1024)
+[2018.04.10-10.34.01:860][182]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 1024X1024)
+[2018.04.10-10.34.01:860][182]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 1024X1024)
+[2018.04.10-10.34.01:860][182]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 1024X1024)
+[2018.04.10-10.34.01:860][182]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 1024X1024)
+[2018.04.10-10.34.01:860][182]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 1024X1024)
+[2018.04.10-10.34.01:860][182]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 1024X1024)
+[2018.04.10-10.34.01:860][182]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 1024X1024)
+[2018.04.10-10.34.01:860][182]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 1024X1024)
+[2018.04.10-10.34.01:860][182]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 1024X1024)
+[2018.04.10-10.34.01:860][182]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 1024X1024)
+[2018.04.10-10.34.01:860][182]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 1024X1024)
+[2018.04.10-10.34.01:860][182]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 256X256)
+[2018.04.10-10.34.01:860][182]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 256X256)
+[2018.04.10-10.34.01:860][182]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 128X128)
+[2018.04.10-10.34.01:860][182]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 128X128)
+[2018.04.10-10.34.02:340][182]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 128X128)
+[2018.04.10-10.34.02:340][182]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X256)
+[2018.04.10-10.34.02:748][182]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X1024)
+[2018.04.10-10.34.02:942][182]Lightmass on JAREDSHAW: 3:28 min total, 2.53 sec importing, 659 ms setup, 15.7 sec photons, 3:09 min processing, 0 ms extra exporting [651/651 mappings]. Threads: 15:48 min total, 10:12 min processing.
+[2018.04.10-10.34.03:282][182]LogStaticLightingSystem: Illumination: 3:46 min (23.0 sec encoding lightmaps, 886 ms encoding shadowmaps)
+[2018.04.10-10.34.03:282][182]LogStaticLightingSystem: Lightmap texture memory:  46.7 MB (46.5 MB streaming, 0.1 MB non-streaming), 22 textures
+[2018.04.10-10.34.03:282][182]LogStaticLightingSystem: Shadowmap texture memory: 2.8 MB (2.7 MB streaming, 0.1 MB non-streaming), 3 textures
+[2018.04.10-10.34.03:561][182]DumpUnbuiltLightIteractions
+[2018.04.10-10.34.03:561][182]Lights with unbuilt interactions: 0
+[2018.04.10-10.34.03:561][182]
+[2018.04.10-10.34.03:561][182]Primitives with unbuilt interactions: 0
+[2018.04.10-10.34.03:644][183]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.04.10-10.34.03:645][183]MapCheck: New page: Jared_rooftop - Apr 9, 2018, 10:34:03 PM
+[2018.04.10-10.34.03:645][183]LogEditorServer: Warning: WorldSettings_1 contains streaming level '/Game/Maps/MatineeMap' which isn't loaded.
+[2018.04.10-10.34.03:692][183]MapCheck: Warning: BP_Bot_C_1 Actor casts dynamic shadows and has a BoundsScale greater than 1! This will have a large performance hit 
+[2018.04.10-10.34.03:692][183]MapCheck: Warning: BP_Bot_C_1 Actor casts dynamic shadows and has a BoundsScale greater than 1! This will have a large performance hit 
+[2018.04.10-10.34.03:692][183]MapCheck: Warning: BP_Bot_C_1 Actor casts dynamic shadows and has a BoundsScale greater than 1! This will have a large performance hit 
+[2018.04.10-10.34.03:692][183]MapCheck: Warning: BP_Bot_C_1 Actor casts dynamic shadows and has a BoundsScale greater than 1! This will have a large performance hit 
+[2018.04.10-10.34.03:752][183]MapCheck: Warning: SM_NYC_LowPolyBuildings_Tower01_42 Collision enabled but StaticMesh (SM_NYC_LowPolyBuildings_Tower01) has no simple or complex collision. 
+[2018.04.10-10.34.03:753][183]MapCheck: Warning: SM_NYC_Sidewalks_Straight_8 More overridden materials (3) on static mesh component than are referenced (1) in source mesh 'SM_NYC_Sidewalks_Straight_3' 
+[2018.04.10-10.34.03:754][183]MapCheck: Warning: SM_NYC_Sidewalks_Straight_03_13 More overridden materials (3) on static mesh component than are referenced (1) in source mesh 'SM_NYC_Sidewalks_Straight_01' 
+[2018.04.10-10.34.03:755][183]MapCheck: Warning: SM_NYC_LowPolyBuildings_Set01_Mid_2 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2018.04.10-10.34.03:757][183]MapCheck: Warning: SM_GEN_Sign_BIGXXX_1193 Collision enabled but StaticMesh (SM_GEN_Sign_BIGXXX) has no simple or complex collision. 
+[2018.04.10-10.34.03:758][183]MapCheck: Warning: SM_SubwayPitHall_01_624 1 element(s) with zero triangles in static mesh 'SM_SubwayPitHall_01' 
+[2018.04.10-10.34.03:760][183]MapCheck: Warning: SM_CinderBlockSet_Shopfront3_207 SM_CinderBlockSet_Shopfront3_207 (LOD 0) has hand-painted vertex colors that no longer match the original StaticMesh (SM_CinderBlockSet_Shopfront01) 
+[2018.04.10-10.34.03:760][183]MapCheck: Warning: SM_NYC_Sidewalks_Straight_77 More overridden materials (3) on static mesh component than are referenced (1) in source mesh 'SM_NYC_Sidewalks_Straight_3Short' 
+[2018.04.10-10.34.03:761][183]MapCheck: Warning: Shape_Plane_8 Static mesh actor has NULL StaticMesh property 
+[2018.04.10-10.34.03:761][183]MapCheck: Warning: Shape_Plane_8 Static mesh actor has NULL StaticMesh property 
+[2018.04.10-10.34.03:761][183]MapCheck: Warning: Shape_Plane_3 Static mesh actor has NULL StaticMesh property 
+[2018.04.10-10.34.03:761][183]MapCheck: Warning: Shape_Plane_3 Static mesh actor has NULL StaticMesh property 
+[2018.04.10-10.34.03:761][183]MapCheck: Warning: Shape_Plane_2 Static mesh actor has NULL StaticMesh property 
+[2018.04.10-10.34.03:761][183]MapCheck: Warning: Shape_Plane_2 Static mesh actor has NULL StaticMesh property 
+[2018.04.10-10.34.03:761][183]MapCheck: Warning: Shape_Plane_4 Static mesh actor has NULL StaticMesh property 
+[2018.04.10-10.34.03:762][183]MapCheck: Warning: Shape_Plane_4 Static mesh actor has NULL StaticMesh property 
+[2018.04.10-10.34.03:762][183]MapCheck: Warning: explosionmesh_11 Actor casts dynamic shadows and has a BoundsScale greater than 1! This will have a large performance hit 
+[2018.04.10-10.34.03:762][183]MapCheck: Warning: explosionmesh_9 Actor casts dynamic shadows and has a BoundsScale greater than 1! This will have a large performance hit 
+[2018.04.10-10.34.03:762][183]MapCheck: Warning: explosionmesh_7 Actor casts dynamic shadows and has a BoundsScale greater than 1! This will have a large performance hit 
+[2018.04.10-10.34.03:762][183]MapCheck: Warning: FinalDome_ROOT_FinalDome_Front_GEP_8 Static mesh actor has NULL StaticMesh property 
+[2018.04.10-10.34.03:763][183]MapCheck: Warning: FinalDome_ROOT_FinalDome_Front_GEP_8 Static mesh actor has NULL StaticMesh property 
+[2018.04.10-10.34.03:763][183]MapCheck: Warning: FinalDome_ROOT_FinalDome_Back_GEP_11 Static mesh actor has NULL StaticMesh property 
+[2018.04.10-10.34.03:763][183]MapCheck: Warning: FinalDome_ROOT_FinalDome_Back_GEP_11 Static mesh actor has NULL StaticMesh property 
+[2018.04.10-10.34.10:203][183]MapCheck: Map check complete: 0 Error(s), 27 Warning(s), took 6,558.523ms to complete.
+[2018.04.10-10.34.32:410][134]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorSkySphere)
+[2018.04.10-10.35.28:686][402]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight3)
+[2018.04.10-10.35.30:255][476]Cmd: DELETE
+[2018.04.10-10.35.30:255][476]Cmd: ACTOR DELETE
+[2018.04.10-10.35.30:375][476]LogEditorActor: Deleted Actor: PointLight
+[2018.04.10-10.35.30:399][476]LogEditorActor: Deleted 1 Actors (0.143 secs)
+[2018.04.10-10.35.32:025][566]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_NYC_LowPolyBuildings_Set01_Mid_2)
+[2018.04.10-10.35.33:273][620]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight4)
+[2018.04.10-10.35.37:436][811]Cmd: DELETE
+[2018.04.10-10.35.37:436][811]Cmd: ACTOR DELETE
+[2018.04.10-10.35.37:447][811]LogEditorActor: Deleted Actor: PointLight
+[2018.04.10-10.35.37:475][811]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2018.04.10-10.35.39:458][923]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight5)
+[2018.04.10-10.35.40:427][970]Cmd: DELETE
+[2018.04.10-10.35.40:427][970]Cmd: ACTOR DELETE
+[2018.04.10-10.35.40:438][970]LogEditorActor: Deleted Actor: PointLight
+[2018.04.10-10.35.40:482][970]LogEditorActor: Deleted 1 Actors (0.055 secs)
+[2018.04.10-10.35.59:412][ 94]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Jared_rooftop" FILE="C:/git3/Content/Maps/Jared_rooftop.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.10-10.36.00:179][ 94]LogSavePackage: Save=534.10ms
+[2018.04.10-10.36.00:179][ 94]LogSavePackage: Moving 'C:/git3/Saved/Jared_rooftopD75EFC14448E5AA8ADDAF989EF53BAB4.tmp' to 'C:/git3/Content/Maps/Jared_rooftop.umap'
+[2018.04.10-10.36.00:189][ 94]LogSavePackage: Display: Finished SavePackage C:/git3/Content/Maps/Jared_rooftop.umap
+[2018.04.10-10.36.00:232][ 94]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Jared_rooftop_BuiltData" FILE="C:/git3/Content/Maps/Jared_rooftop_BuiltData.uasset" SILENT=true
+[2018.04.10-10.36.00:356][ 94]LogSavePackage: Save=121.36ms
+[2018.04.10-10.36.00:356][ 94]LogSavePackage: Moving 'C:/git3/Saved/Jared_rooftop_BuiltData23D3D6664BC47A9218B0A8B476143DFB.tmp' to 'C:/git3/Content/Maps/Jared_rooftop_BuiltData.uasset'
+[2018.04.10-10.36.00:359][ 94]LogSavePackage: Display: Finished SavePackage C:/git3/Content/Maps/Jared_rooftop_BuiltData.uasset

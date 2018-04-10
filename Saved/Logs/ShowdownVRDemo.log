@@ -646,3 +646,169 @@ LogInit: Object subsystem initialized
 [2018.04.10-08.49.23:188][997]LogSavePackage: Save=428.74ms
 [2018.04.10-08.49.23:189][997]LogSavePackage: Moving 'C:/git3/Saved/Jared_rooftopD851DEFA46803AB59CC881ACEFA76BC9.tmp' to 'C:/git3/Content/Maps/Jared_rooftop.umap'
 [2018.04.10-08.49.23:193][997]LogSavePackage: Display: Finished SavePackage C:/git3/Content/Maps/Jared_rooftop.umap
+[2018.04.10-08.53.17:371][564]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2018.04.10-08.53.18:817][636]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorSkySphere)
+[2018.04.10-08.53.19:984][687]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2018.04.10-08.53.21:955][790]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorSkySphere)
+[2018.04.10-08.53.49:421][ 78]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorSkySphere)
+[2018.04.10-08.54.11:778][ 45]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorSkySphere)
+[2018.04.10-08.54.27:476][695]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (WayneMichaels_Rigged)
+[2018.04.10-08.54.30:631][794]LogSlate: Took 0.047359 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.10-08.55.36:836][464]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorSkySphere)
+[2018.04.10-08.55.47:771][922]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_NYC_LowPolyBuildings_Set01_Mid_2)
+[2018.04.10-08.55.48:571][957]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (WayneMichaels_Rigged)
+[2018.04.10-08.55.51:287][ 87]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_NYC_LowPolyBuildings_Set01_Mid_2)
+[2018.04.10-08.55.52:118][123]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorSkySphere)
+[2018.04.10-08.55.56:807][330]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_NYC_LowPolyBuildings_Set01_Mid_2)
+[2018.04.10-08.55.57:751][369]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2018.04.10-08.56.10:085][932]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_NYC_LowPolyBuildings_Set01_Mid_2)
+[2018.04.10-08.58.34:034][419]Cmd: TRANSACTION UNDO
+[2018.04.10-08.58.34:035][419]LogEditorTransaction: Undo Set Float Key Value
+[2018.04.10-08.58.35:179][447]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_NYC_LowPolyBuildings_Set01_Mid_2)
+[2018.04.10-08.58.35:863][469]Cmd: TRANSACTION UNDO
+[2018.04.10-08.58.35:863][469]LogEditorTransaction: Undo Clicking on Actors
+[2018.04.10-08.58.36:729][497]Cmd: TRANSACTION UNDO
+[2018.04.10-08.58.36:730][497]LogEditorTransaction: Undo Move Actors
+[2018.04.10-08.58.37:198][514]Cmd: TRANSACTION UNDO
+[2018.04.10-08.58.37:198][514]LogEditorTransaction: Undo Set Float Key Value
+[2018.04.10-08.58.38:376][561]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_NYC_LowPolyBuildings_Set01_Mid_2)
+[2018.04.10-08.58.39:144][589]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor2)
+[2018.04.10-08.59.24:896][508]Cmd: TRANSACTION UNDO
+[2018.04.10-08.59.24:896][508]LogEditorTransaction: Undo Set Float Key Value
+[2018.04.10-08.59.58:549][321]LogEditorViewport: Clicking on Actor (LMB): LevelSequenceActor (PigeonSequence2)
+[2018.04.10-08.59.59:626][373]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorSkySphere)
+[2018.04.10-09.00.04:659][612]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_NYC_LowPolyBuildings_Set01_Mid_2)
+[2018.04.10-09.00.07:435][726]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_NYC_LowPolyBuildings_Set01_Mid_2)
+[2018.04.10-09.00.08:223][762]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor2)
+[2018.04.10-09.00.40:741][146]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Jared_rooftop" FILE="C:/git3/Saved/Autosaves/Game/Maps/Jared_rooftop_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.04.10-09.00.41:201][146]LogSavePackage: Save=382.76ms
+[2018.04.10-09.00.41:201][146]LogSavePackage: Moving 'C:/git3/Saved/Jared_rooftop_Auto2833E6E37447092EEF3D5948BC7D1C77D.tmp' to 'C:/git3/Saved/Autosaves/Game/Maps/Jared_rooftop_Auto2.umap'
+[2018.04.10-09.00.41:202][146]LogSavePackage: Display: Finished SavePackage C:/git3/Saved/Autosaves/Game/Maps/Jared_rooftop_Auto2.umap
+[2018.04.10-09.00.41:318][146]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/EnvironmentMap" FILE="C:/git3/Saved/Autosaves/Game/Maps/EnvironmentMap_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.04.10-09.00.42:272][146]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: EnvironmentMap, Actor: /Game/Maps/EnvironmentMap.EnvironmentMap:PersistentLevel.REINST_EnvironmentMap_C_0
+[2018.04.10-09.00.43:664][146]LogSlate: Took 0.000317 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.10-09.00.46:893][146]LogSavePackage: Save=4688.87ms
+[2018.04.10-09.00.46:894][146]LogSavePackage: Moving 'C:/git3/Saved/EnvironmentMap_Auto25838063640FF1C03A628748C2C1B8C4A.tmp' to 'C:/git3/Saved/Autosaves/Game/Maps/EnvironmentMap_Auto2.umap'
+[2018.04.10-09.00.46:896][146]LogSavePackage: Display: Finished SavePackage C:/git3/Saved/Autosaves/Game/Maps/EnvironmentMap_Auto2.umap
+[2018.04.10-09.00.47:015][146]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Jared_rooftop' took 6.517
+[2018.04.10-09.00.47:015][146]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 6.517
+[2018.04.10-09.00.47:022][146]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/00Z/Sequences/PigeonSequence] ([1] browsable assets)...
+[2018.04.10-09.00.47:022][146]OBJ SavePackage: Finished generating thumbnails for package [/Game/00Z/Sequences/PigeonSequence]
+[2018.04.10-09.00.47:022][146]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/00Z/Sequences/PigeonSequence" FILE="C:/git3/Saved/Autosaves/Game/00Z/Sequences/PigeonSequence_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.04.10-09.00.47:066][146]LogSavePackage: Save=31.58ms
+[2018.04.10-09.00.47:066][146]LogSavePackage: Moving 'C:/git3/Saved/PigeonSequence_Auto2945D92454E3B0709449732B5BFA22E71.tmp' to 'C:/git3/Saved/Autosaves/Game/00Z/Sequences/PigeonSequence_Auto2.uasset'
+[2018.04.10-09.00.47:068][146]LogSavePackage: Display: Finished SavePackage C:/git3/Saved/Autosaves/Game/00Z/Sequences/PigeonSequence_Auto2.uasset
+[2018.04.10-09.00.47:068][146]LogFileHelpers: Auto-saving content packages took 0.047
+[2018.04.10-09.00.52:736][361]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_NYC_LowPolyBuildings_Set01_Mid_2)
+[2018.04.10-09.01.00:401][763]LogEditor: Attempting to add actor of class 'CineCameraActor' to level at 16366.00,22070.00,8442.00
+[2018.04.10-09.01.00:978][788]LogEditor: Attempting to add actor of class 'CineCameraActor' to level at 16291.00,22966.00,8334.00
+[2018.04.10-09.02.32:961][271]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor6)
+[2018.04.10-09.02.52:713][984]LogSlate: Took 0.120055 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.10-09.04.07:949][678]Cmd: TRANSACTION UNDO
+[2018.04.10-09.04.07:949][678]LogEditorTransaction: Undo Set Float Key Value
+[2018.04.10-09.05.18:976][ 76]Cmd: TRANSACTION UNDO
+[2018.04.10-09.05.18:976][ 76]LogEditorTransaction: Undo Animatable Property Changed
+[2018.04.10-09.05.53:650][296]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor2)
+[2018.04.10-09.08.01:859][ 23]Cmd: TRANSACTION UNDO
+[2018.04.10-09.08.01:859][ 23]LogEditorTransaction: Undo Resize section
+[2018.04.10-09.08.20:153][847]Cmd: TRANSACTION UNDO
+[2018.04.10-09.08.20:153][847]LogEditorTransaction: Undo Select Actors/Components
+[2018.04.10-09.08.20:571][852]Cmd: TRANSACTION UNDO
+[2018.04.10-09.08.20:571][852]LogEditorTransaction: Undo Select None
+[2018.04.10-09.08.21:486][870]Cmd: TRANSACTION UNDO
+[2018.04.10-09.08.21:486][870]LogEditorTransaction: Undo Select Actors/Components
+[2018.04.10-09.08.22:044][881]Cmd: TRANSACTION UNDO
+[2018.04.10-09.08.22:044][881]LogEditorTransaction: Undo Select Actors/Components
+[2018.04.10-09.08.22:642][898]Cmd: TRANSACTION UNDO
+[2018.04.10-09.08.22:643][898]LogEditorTransaction: Undo Select None
+[2018.04.10-09.08.23:316][909]Cmd: TRANSACTION UNDO
+[2018.04.10-09.08.23:316][909]LogEditorTransaction: Undo Animatable Property Changed
+[2018.04.10-09.09.19:562][901]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_NYC_LowPolyBuildings_Set01_Mid_2)
+[2018.04.10-09.09.19:885][907]Cmd: TRANSACTION UNDO
+[2018.04.10-09.09.19:885][907]LogEditorTransaction: Undo Clicking on Actors
+[2018.04.10-09.09.20:509][928]Cmd: TRANSACTION UNDO
+[2018.04.10-09.09.20:509][928]LogEditorTransaction: Undo Select Actors/Components
+[2018.04.10-09.09.20:945][954]Cmd: TRANSACTION UNDO
+[2018.04.10-09.09.20:945][954]LogEditorTransaction: Undo Select Actors/Components
+[2018.04.10-09.09.21:399][968]Cmd: TRANSACTION UNDO
+[2018.04.10-09.09.21:399][968]LogEditorTransaction: Undo Select Actors/Components
+[2018.04.10-09.09.21:808][981]Cmd: TRANSACTION UNDO
+[2018.04.10-09.09.21:808][981]LogEditorTransaction: Undo Select Actors/Components
+[2018.04.10-09.09.22:239][995]Cmd: TRANSACTION UNDO
+[2018.04.10-09.09.22:239][995]LogEditorTransaction: Undo Select Actors/Components
+[2018.04.10-09.09.22:666][  9]Cmd: TRANSACTION UNDO
+[2018.04.10-09.09.22:666][  9]LogEditorTransaction: Undo Select Actors/Components
+[2018.04.10-09.09.23:212][ 27]Cmd: TRANSACTION UNDO
+[2018.04.10-09.09.23:212][ 27]LogEditorTransaction: Undo Select Actors/Components
+[2018.04.10-09.09.24:573][ 72]Cmd: TRANSACTION UNDO
+[2018.04.10-09.09.24:573][ 72]LogEditorTransaction: Undo Select Actors/Components
+[2018.04.10-09.09.24:939][ 83]Cmd: TRANSACTION UNDO
+[2018.04.10-09.09.24:940][ 83]LogEditorTransaction: Undo Select Actors/Components
+[2018.04.10-09.09.25:351][ 96]Cmd: TRANSACTION UNDO
+[2018.04.10-09.09.25:351][ 96]LogEditorTransaction: Undo Select Actors/Components
+[2018.04.10-09.09.25:613][104]Cmd: TRANSACTION UNDO
+[2018.04.10-09.09.25:613][104]LogEditorTransaction: Undo Select Actors/Components
+[2018.04.10-09.09.25:787][109]Cmd: TRANSACTION UNDO
+[2018.04.10-09.09.25:787][109]LogEditorTransaction: Undo Select Actors/Components
+[2018.04.10-09.09.26:126][120]Cmd: TRANSACTION UNDO
+[2018.04.10-09.09.26:126][120]LogEditorTransaction: Undo Select Actors/Components
+[2018.04.10-09.09.26:882][144]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_NYC_LowPolyBuildings_Set01_Mid_2)
+[2018.04.10-09.09.27:416][159]Cmd: TRANSACTION UNDO
+[2018.04.10-09.09.27:416][159]LogEditorTransaction: Undo Clicking on Actors
+[2018.04.10-09.09.28:023][174]Cmd: TRANSACTION UNDO
+[2018.04.10-09.09.28:023][174]LogEditorTransaction: Undo Select Actors/Components
+[2018.04.10-09.09.28:440][186]Cmd: TRANSACTION UNDO
+[2018.04.10-09.09.28:440][186]LogEditorTransaction: Undo Select Actors/Components
+[2018.04.10-09.09.28:932][202]Cmd: TRANSACTION UNDO
+[2018.04.10-09.09.28:932][202]LogEditorTransaction: Undo Select Actors/Components
+[2018.04.10-09.09.29:361][216]Cmd: TRANSACTION UNDO
+[2018.04.10-09.09.29:361][216]LogEditorTransaction: Undo Select Actors/Components
+[2018.04.10-09.09.29:848][232]Cmd: TRANSACTION UNDO
+[2018.04.10-09.09.29:848][232]LogEditorTransaction: Undo Select Actors/Components
+[2018.04.10-09.09.30:275][246]Cmd: TRANSACTION UNDO
+[2018.04.10-09.09.30:275][246]LogEditorTransaction: Undo Select Actors/Components
+[2018.04.10-09.09.31:317][281]Cmd: TRANSACTION UNDO
+[2018.04.10-09.09.31:317][281]LogEditorTransaction: Undo Select Actors/Components
+[2018.04.10-09.09.31:781][296]Cmd: TRANSACTION UNDO
+[2018.04.10-09.09.31:781][296]LogEditorTransaction: Undo Select Actors/Components
+[2018.04.10-09.09.31:976][302]Cmd: TRANSACTION UNDO
+[2018.04.10-09.09.31:976][302]LogEditorTransaction: Undo Select Actors/Components
+[2018.04.10-09.09.32:144][307]Cmd: TRANSACTION UNDO
+[2018.04.10-09.09.32:145][307]LogEditorTransaction: Undo Select Actors/Components
+[2018.04.10-09.09.32:283][311]Cmd: TRANSACTION UNDO
+[2018.04.10-09.09.32:283][311]LogEditorTransaction: Undo Move Actors
+[2018.04.10-09.09.32:445][314]Cmd: TRANSACTION UNDO
+[2018.04.10-09.09.32:446][314]LogEditorTransaction: Undo Move Actors
+[2018.04.10-09.09.32:606][319]Cmd: TRANSACTION UNDO
+[2018.04.10-09.09.32:606][319]LogEditorTransaction: Undo Set Float Key Value
+[2018.04.10-09.09.32:743][321]Cmd: TRANSACTION UNDO
+[2018.04.10-09.09.32:744][321]LogEditorTransaction: Undo Select Actors/Components
+[2018.04.10-09.09.32:920][326]Cmd: TRANSACTION UNDO
+[2018.04.10-09.09.32:920][326]LogEditorTransaction: Undo Select Actors/Components
+[2018.04.10-09.10.33:935][488]Cmd: TRANSACTION UNDO
+[2018.04.10-09.10.33:935][488]LogEditorTransaction: Undo Set Float Key Value
+[2018.04.10-09.10.43:972][837]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_NYC_LowPolyBuildings_Set01_Mid_2)
+[2018.04.10-09.10.44:722][861]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor6)
+[2018.04.10-09.12.29:307][870]Cmd: TRANSACTION UNDO
+[2018.04.10-09.12.29:307][870]LogEditorTransaction: Undo Move Keys
+[2018.04.10-09.13.10:495][305]Cmd: TRANSACTION UNDO
+[2018.04.10-09.13.10:496][305]LogEditorTransaction: Undo Animatable Property Changed
+[2018.04.10-09.15.42:952][320]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Jared_rooftop" FILE="C:/git3/Saved/Autosaves/Game/Maps/Jared_rooftop_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.04.10-09.15.43:371][320]LogSavePackage: Save=402.05ms
+[2018.04.10-09.15.43:371][320]LogSavePackage: Moving 'C:/git3/Saved/Jared_rooftop_Auto3278D79144421225CFCB6838421CC0057.tmp' to 'C:/git3/Saved/Autosaves/Game/Maps/Jared_rooftop_Auto3.umap'
+[2018.04.10-09.15.43:372][320]LogSavePackage: Display: Finished SavePackage C:/git3/Saved/Autosaves/Game/Maps/Jared_rooftop_Auto3.umap
+[2018.04.10-09.15.43:377][320]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Jared_rooftop' took 0.452
+[2018.04.10-09.15.43:377][320]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.452
+[2018.04.10-09.15.43:381][320]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/00Z/Sequences/PigeonSequence] ([1] browsable assets)...
+[2018.04.10-09.15.43:381][320]OBJ SavePackage: Finished generating thumbnails for package [/Game/00Z/Sequences/PigeonSequence]
+[2018.04.10-09.15.43:381][320]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/00Z/Sequences/PigeonSequence" FILE="C:/git3/Saved/Autosaves/Game/00Z/Sequences/PigeonSequence_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2018.04.10-09.15.43:422][320]LogSavePackage: Save=30.66ms
+[2018.04.10-09.15.43:422][320]LogSavePackage: Moving 'C:/git3/Saved/PigeonSequence_Auto3EF2B82F6409B5FB6F4EE1489BE94621B.tmp' to 'C:/git3/Saved/Autosaves/Game/00Z/Sequences/PigeonSequence_Auto3.uasset'
+[2018.04.10-09.15.43:424][320]LogSavePackage: Display: Finished SavePackage C:/git3/Saved/Autosaves/Game/00Z/Sequences/PigeonSequence_Auto3.uasset
+[2018.04.10-09.15.43:424][320]LogFileHelpers: Auto-saving content packages took 0.045
+[2018.04.10-09.17.05:685][989]LogEditorActor: Deleted Actor: CineCameraActor
+[2018.04.10-09.17.05:709][989]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2018.04.10-09.17.35:522][465]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Jared_rooftop" FILE="C:/git3/Content/Maps/Jared_rooftop.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.10-09.17.36:000][465]LogSavePackage: Save=436.32ms
+[2018.04.10-09.17.36:001][465]LogSavePackage: Moving 'C:/git3/Saved/Jared_rooftop8745B30E42BB9BDC421CDE8A563EB20A.tmp' to 'C:/git3/Content/Maps/Jared_rooftop.umap'
+[2018.04.10-09.17.36:013][465]LogSavePackage: Display: Finished SavePackage C:/git3/Content/Maps/Jared_rooftop.umap
